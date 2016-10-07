@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		C87D2CB01D8F382C003F5936 /* NSURLSession+RxAlamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = C87D2CAD1D8F382C003F5936 /* NSURLSession+RxAlamofire.swift */; };
 		C87D2CB11D8F382C003F5936 /* NSURLSession+RxAlamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = C87D2CAD1D8F382C003F5936 /* NSURLSession+RxAlamofire.swift */; };
-		C87D2CB21D8F382C003F5936 /* RxAlamofire.h in Headers */ = {isa = PBXBuildFile; fileRef = C87D2CAE1D8F382C003F5936 /* RxAlamofire.h */; };
 		C87D2CB31D8F382C003F5936 /* RxAlamofire.h in Headers */ = {isa = PBXBuildFile; fileRef = C87D2CAE1D8F382C003F5936 /* RxAlamofire.h */; };
 		C87D2CB41D8F382C003F5936 /* RxAlamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = C87D2CAF1D8F382C003F5936 /* RxAlamofire.swift */; };
 		C87D2CB51D8F382C003F5936 /* RxAlamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = C87D2CAF1D8F382C003F5936 /* RxAlamofire.swift */; };
@@ -158,7 +157,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				C88CB75D1D8F300C0021D83F /* RxAlamofire.h in Headers */,
-				C87D2CB21D8F382C003F5936 /* RxAlamofire.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
