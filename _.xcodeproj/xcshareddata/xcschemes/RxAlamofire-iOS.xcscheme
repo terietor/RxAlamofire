@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C88CB7581D8F300C0021D83F"
+               BlueprintIdentifier = "45DDCF5B1DA8E1B1009091A6"
                BuildableName = "RxAlamofire.framework"
                BlueprintName = "RxAlamofire-iOS"
                ReferencedContainer = "container:_.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C88CB7581D8F300C0021D83F"
+            BlueprintIdentifier = "45DDCF5B1DA8E1B1009091A6"
             BuildableName = "RxAlamofire.framework"
             BlueprintName = "RxAlamofire-iOS"
             ReferencedContainer = "container:_.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C88CB7581D8F300C0021D83F"
+            BlueprintIdentifier = "45DDCF5B1DA8E1B1009091A6"
             BuildableName = "RxAlamofire.framework"
             BlueprintName = "RxAlamofire-iOS"
             ReferencedContainer = "container:_.xcodeproj">
